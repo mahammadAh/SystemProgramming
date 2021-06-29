@@ -1,0 +1,10 @@
+D:\STEP\Разработка ПО\Visual studio\game\game\bin\Debug\game.exe.config
+D:\STEP\Разработка ПО\Visual studio\game\game\bin\Debug\game.exe
+D:\STEP\Разработка ПО\Visual studio\game\game\bin\Debug\game.pdb
+D:\STEP\Разработка ПО\Visual studio\game\game\obj\Debug\game.csprojAssemblyReference.cache
+D:\STEP\Разработка ПО\Visual studio\game\game\obj\Debug\game.Form1.resources
+D:\STEP\Разработка ПО\Visual studio\game\game\obj\Debug\game.Properties.Resources.resources
+D:\STEP\Разработка ПО\Visual studio\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\STEP\Разработка ПО\Visual studio\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\STEP\Разработка ПО\Visual studio\game\game\obj\Debug\game.exe
+D:\STEP\Разработка ПО\Visual studio\game\game\obj\Debug\game.pdb

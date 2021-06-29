@@ -1,0 +1,13 @@
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\bin\Release\netcoreapp3.1\myApp.exe
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\bin\Release\netcoreapp3.1\myApp.deps.json
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\bin\Release\netcoreapp3.1\myApp.runtimeconfig.json
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\bin\Release\netcoreapp3.1\myApp.runtimeconfig.dev.json
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\bin\Release\netcoreapp3.1\myApp.dll
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\bin\Release\netcoreapp3.1\myApp.pdb
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\obj\Release\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\obj\Release\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\obj\Release\netcoreapp3.1\myApp.AssemblyInfo.cs
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\obj\Release\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\obj\Release\netcoreapp3.1\myApp.dll
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\obj\Release\netcoreapp3.1\myApp.pdb
+D:\STEP\Разработка ПО\Visual studio\myApp\myApp\obj\Release\netcoreapp3.1\myApp.genruntimeconfig.cache

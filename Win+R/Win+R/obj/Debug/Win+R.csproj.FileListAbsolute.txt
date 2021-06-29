@@ -1,0 +1,12 @@
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\bin\Debug\Win+R.exe.config
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\bin\Debug\Win+R.exe
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\bin\Debug\Win+R.pdb
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\obj\Debug\Win+R.csprojAssemblyReference.cache
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\obj\Debug\Win_R.Form1.resources
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\obj\Debug\Win_R.Properties.Resources.resources
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\obj\Debug\Win+R.csproj.GenerateResource.cache
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\obj\Debug\Win+R.csproj.CoreCompileInputs.cache
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\obj\Debug\Win+R.exe
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\obj\Debug\Win+R.pdb
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\bin\Debug\GlobalHotKey.dll
+D:\STEP\Разработка ПО\Visual studio\Win+R\Win+R\obj\Debug\Win+R.csproj.CopyComplete
